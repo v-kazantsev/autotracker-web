@@ -11,7 +11,10 @@
   },
   "dependencies": {
     "@types/node": "^20.10.7",
+    "axios": "^1.6.5",
+    "dayjs": "^1.11.10",
     "path": "^0.12.7",
+    "qs": "^6.11.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "vite-tsconfig-paths": "^4.2.3"
